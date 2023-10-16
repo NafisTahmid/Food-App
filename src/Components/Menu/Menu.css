@@ -1,0 +1,20 @@
+.feature-products{
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+
+.text-heading {
+    color:black;
+    text-shadow: 2px 0 black;
+    letter-spacing:2px;
+    font-weight:bold;
+}
+
+.price-text{
+    margin-left: 260px;
+}
+
+.feature-container:hover{
+    transform: scale(1.1);
+}

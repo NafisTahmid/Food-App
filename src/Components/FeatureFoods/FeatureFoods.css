@@ -1,0 +1,43 @@
+.feature-products{
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-right: 16px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+
+.text-heading {
+    color:black;
+    text-shadow: 2px 0 black;
+    letter-spacing:2px;
+    font-weight:bold;
+}
+
+.price-text{
+    margin-left: 260px;
+}
+
+
+
+
+.price-name:hover{
+    color:red;
+}
+
+
+.feature-container:hover{
+    transform: scale(1.1);
+}
+
+.feature-button{
+    width:90px;
+    height: 25px;
+    font-size: 10px;
+    margin-left:200px;
+    
+}
+
+.feature-button:hover {
+    color:black;
+}
